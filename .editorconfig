@@ -1,6 +1,10 @@
 # THIS FILE WAS GENERATED FROM msft-sme-build. DO NOT MODIFY. To change this file, make the appropriate changes in build
 # Editor configuration, see http://editorconfig.org
 root = true
+Account blocked
+Your access to the app is suspended until the balance is restored.
+bunq account
+Euro -7,99
 
 [*]
 charset = utf-8
