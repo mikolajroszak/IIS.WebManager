@@ -44,7 +44,7 @@
   },
   "devDependencies": {
     "@angular-devkit/build-angular": "0.13.8",
-    "@angular/cli": "7.1.2",
+    "@angular/cli": "9.1.0",
     "@angular/compiler": "7.2.11",
     "@angular/compiler-cli": "7.2.11",
     "@angular/language-service": "7.1.1",
@@ -61,7 +61,7 @@
     "gulp": "4.0.0",
     "gulp-autoprefixer": "6.0.0",
     "gulp-batch": "1.0.5",
-    "gulp-clean": "0.3.2",
+    "gulp-clean": "0.4.0",
     "gulp-cli": "2.1.0",
     "gulp-inline-ng2-template": "5.0.1",
     "gulp-jasmine": "4.0.0",
