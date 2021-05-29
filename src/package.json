@@ -59,7 +59,7 @@
     "codelyzer": "4.5.0",
     "grunt": "1.0.4",
     "gulp": "4.0.0",
-    "gulp-autoprefixer": "6.0.0",
+    "gulp-autoprefixer": "8.0.0",
     "gulp-batch": "1.0.5",
     "gulp-clean": "0.3.2",
     "gulp-cli": "2.1.0",
